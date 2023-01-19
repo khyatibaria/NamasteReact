@@ -1,0 +1,8 @@
+#Ignore node module folders
+node_modules
+
+#Ignore Parcel Dist folders
+Dist
+
+#Ignore Parcel Cache folders
+.parcel-cache
